@@ -1,0 +1,2 @@
+BUG
+speed på rebellerna , kan inte vara högre än 2.
